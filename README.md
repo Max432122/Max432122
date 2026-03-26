@@ -23,8 +23,9 @@ Soy un desarrollador apasionado por crear soluciones tecnológicas integrales. M
 
 ---
 
-###  Estadísticas de GitHub
-![Mis lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=vision-friendly-dark)
+### Tecnologías y Herramientas
+
+[![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,mysql,oracle,js,react,figma,git,github,postman,maven)](https://skillicons.dev)
 
 ---
 
